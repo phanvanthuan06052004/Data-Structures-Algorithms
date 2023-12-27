@@ -1,0 +1,6 @@
+C:\projectDSA\thuanPhat\MusicRepository\bin\Debug\MusicRepository.dll
+C:\projectDSA\thuanPhat\MusicRepository\bin\Debug\MusicRepository.pdb
+C:\projectDSA\thuanPhat\MusicRepository\obj\Debug\MusicRepository.csproj.AssemblyReference.cache
+C:\projectDSA\thuanPhat\MusicRepository\obj\Debug\MusicRepository.csproj.CoreCompileInputs.cache
+C:\projectDSA\thuanPhat\MusicRepository\obj\Debug\MusicRepository.dll
+C:\projectDSA\thuanPhat\MusicRepository\obj\Debug\MusicRepository.pdb
